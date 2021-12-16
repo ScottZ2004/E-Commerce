@@ -1,0 +1,22 @@
+{
+  "name": "stedelijkmuseum",
+  "version": "1.0.0",
+  "description": "thema voor de beroepsopdracht van het mediacollege Amsterdam",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass --style expanded scss/stedelijk.scss css/stedelijk.css",
+    "watch": "sass --watch scss:css --style expanded",
+    "prod": "sass --style compressed --no-source-map scss/stedelijk.scss css/stedelijk.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottZ2004/F2M6Wordpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScottZ2004/F2M6Wordpress/issues"
+  },
+  "homepage": "https://github.com/ScottZ2004/F2M6Wordpress#readme"
+}

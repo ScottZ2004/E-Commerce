@@ -1,0 +1,30 @@
+body {
+  font-family: "Overpass", sans-serif;
+  background-color: #ffffff;
+  color: #000000;
+  text-decoration: none;
+}
+
+header div ul {
+  display: flex;
+  justify-content: center;
+}
+header div ul li {
+  margin: 10px;
+  padding: 10px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #0c0c0c;
+  background-color: #a8a8a8;
+  list-style-type: none;
+}
+header div ul li a {
+  color: #000000;
+  text-decoration: none;
+}
+header div ul li a:hover {
+  text-decoration: underline;
+  color: #ffffff;
+}
+
+/*# sourceMappingURL=stedelijk.css.map */
